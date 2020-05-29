@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ADM
- *
- */
-package Eletrodomesticos;

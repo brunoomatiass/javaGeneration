@@ -5,5 +5,4 @@
  * @author ADM
  *
  */
-module Eletrodomesticos {
-}
+package ex01;
