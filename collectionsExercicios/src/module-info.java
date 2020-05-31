@@ -5,4 +5,5 @@
  * @author ADM
  *
  */
-package ex02;
+module collectionsExercicios {
+}

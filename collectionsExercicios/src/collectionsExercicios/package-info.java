@@ -5,4 +5,4 @@
  * @author ADM
  *
  */
-package ex01;
+package collectionsExercicios;
